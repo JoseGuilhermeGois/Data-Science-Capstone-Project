@@ -17,4 +17,4 @@ Called Space Y and created by Allon Mask
 
 ## 7 - DASHBOARD USING DASH
 
-## 8 - MACHINE LEARNING
+## 8 - MACHINE LEARNING PREDICTION
