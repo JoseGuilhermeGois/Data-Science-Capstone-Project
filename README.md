@@ -10,3 +10,11 @@ Called Space Y and created by Allon Mask
 ## 3 - DATA WRANGLING
 
 ## 4 - SQL NOTEBOOK
+
+## 5 - EXPLORING AND PREPARING DATA
+
+## 6 - FOLIUM AND PLOTY
+
+## 7 - DASHBOARD USING DASH
+
+## 8 - MACHINE LEARNING
